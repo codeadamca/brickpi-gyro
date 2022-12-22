@@ -1,8 +1,8 @@
 # Dexter BrickPi and the Touch Sensor
 
-A Python snippet utilizing the LEGO EV3 touch sensor, the Dexter PrickPi and [BrickPi3](https://github.com/DexterInd/BrickPi3). [BrickPi3](https://github.com/DexterInd/BrickPi3) is the Dexter recommended method of using the BrickPi with Python. 
+A Python snippet utilizing the LEGO EV3 gyroscopic sensor, the Dexter PrickPi and [BrickPi3](https://github.com/DexterInd/BrickPi3). [BrickPi3](https://github.com/DexterInd/BrickPi3) is the Dexter recommended method of using the BrickPi with Python. 
 
-This example turns on the Raspberry Pi on board LED when the touch sensor is pushed.
+This example displays the angles detected by the gyroscopic sensor in the terminal. 
 
 This example requires the [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) VS Code extension to be installed.
 
