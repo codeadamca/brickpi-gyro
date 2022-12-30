@@ -6,6 +6,8 @@ This example displays the angles detected by the gyroscopic sensor in the termin
 
 This example requires the [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) VS Code extension to be installed.
 
+Note: The ```main.py``` file may need to be started twice. The Gyro Sensor seems to fail every second execution.
+
 ## Tutorial Requirements:
 
 * [Dexter BrickPi](https://www.dexterindustries.com/BrickPi/)
