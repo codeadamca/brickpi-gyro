@@ -1,6 +1,6 @@
 # Dexter BrickPi and the Touch Sensor
 
-A Python snippet utilizing the LEGO EV3 gyroscopic sensor, the Dexter PrickPi and [BrickPi3](https://github.com/DexterInd/BrickPi3). [BrickPi3](https://github.com/DexterInd/BrickPi3) is the Dexter recommended method of using the BrickPi with Python. 
+A Python snippet utilizing the LEGO EV3 gyroscopic sensor, the Dexter BrickPi and [BrickPi3](https://github.com/DexterInd/BrickPi3). [BrickPi3](https://github.com/DexterInd/BrickPi3) is the Dexter recommended method of using the BrickPi with Python. 
 
 This example displays the angles detected by the gyroscopic sensor in the terminal. 
 
