@@ -19,7 +19,7 @@ try:
         # Get touch sensor status
         gyro = BP.get_sensor(BP.PORT_1)
             
-        BP.set_motor_power(BP.PORT_A, round(gyro[1]/5))
+        BP.set_motor_power(BP.PORT_B, round(gyro[1]/5))
 
         # If sensor is detecting rotation
         if gyro[1] > 0:
