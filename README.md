@@ -8,7 +8,8 @@ This example requires the [Remote Development](https://marketplace.visualstudio.
 
 ![BrickPi Diagram](_readme/gyro.jpg)
 
-Note: The ```main.py``` file may need to be started twice. The Gyro Sensor seems to fail every second execution.
+> [!Note]
+> The ```main.py``` file may need to be started twice. The Gyro Sensor seems to fail every second execution.
 
 ***
 
